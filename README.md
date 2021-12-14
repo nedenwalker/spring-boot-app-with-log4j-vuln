@@ -1,10 +1,5 @@
 # spring-boot-app-with-log4j-vuln
 
-```bash
-git clone git@gitlab.eng.vmware.com:vulnerability-scanning-enablement/spring-boot-app-with-log4j-vuln.git
-cd spring-boot-app-with-log4j-vuln/
-```
-
 ## Run Source Scan
 ```bash
 ./mvnw install
